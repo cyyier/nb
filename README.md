@@ -30,3 +30,6 @@ imagedestroy($image);
 ![image](https://github.com/cyyier/nb/assets/52512369/df576d93-d686-46a0-80b0-b6c31c785740)
 ![image](https://github.com/cyyier/nb/assets/52512369/270fb6fa-6f5b-4a26-9185-3674b5191bdf)
 ![image](https://github.com/cyyier/nb/assets/52512369/bac367fd-1080-473d-8387-687b7b2ad50f)
+
+## 
+著作権の関係により、一部の画像、フォント及び音声ファイルを削除しました。
