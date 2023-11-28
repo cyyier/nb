@@ -25,7 +25,6 @@ imagedestroy($image);
 ```
 
 ## スクリーンショット
-![image](https://github.com/cyyier/nb/assets/52512369/6e02ea34-efcd-4b54-a5c3-65556d87a96e)
 ![image](https://github.com/cyyier/nb/assets/52512369/c0dfc3e0-2444-47c0-9b6b-0d72891120fa)
 ![image](https://github.com/cyyier/nb/assets/52512369/df576d93-d686-46a0-80b0-b6c31c785740)
 ![image](https://github.com/cyyier/nb/assets/52512369/270fb6fa-6f5b-4a26-9185-3674b5191bdf)
