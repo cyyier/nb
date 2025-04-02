@@ -16,7 +16,7 @@ PHPとMySQLを用いて開発した、ユーザーがログイン後に証明書
 
 ## 技術スタック
 
-- **バックエンド**：PHP 7.3
+- **バックエンド**：PHP 7.3（フレームワーク未使用）
 - **データベース**：MySQL 5.7
 - **フロントエンド**：HTML / CSS / Bulma
 - **画像処理**：PHP標準の画像描画機能（`imagecreate`, `imageTTFText` など）
@@ -57,15 +57,12 @@ imagedestroy($image);
 
 ## スクリーンショット
 
-<img src="https://github.com/cyyier/recipe/assets/52512369/a01e4ede-9cdf-40fc-8be4-42b32e5d9d80" width="200">
-<img src="https://github.com/cyyier/recipe/assets/52512369/a3a221c4-e1ad-4956-9c72-bf8013ab405d" width="200">
-<img src="https://github.com/cyyier/recipe/assets/52512369/d804c348-f6d9-46b5-b913-ed2d2db4b038" width="200">
-<img src="https://github.com/cyyier/recipe/assets/52512369/f4ed14e3-6c2e-42f5-999c-fe012b787ac4" width="200">
+<img src="https://github.com/cyyier/nb/assets/52512369/c0dfc3e0-2444-47c0-9b6b-0d72891120fa" height="700">
+<img src="https://github.com/cyyier/nb/assets/52512369/df576d93-d686-46a0-80b0-b6c31c785740" height="700">
+<img src="https://github.com/cyyier/nb/assets/52512369/bac367fd-1080-473d-8387-687b7b2ad50f" height="700">
 
 ---
 
-## ℹ️ 備考
+##  備考
 
-- 開発時にはユーモラスな画面（例：寄付内容に応じて牛や鶏を要求する表現）も含まれていましたが、現在は非表示としています。
-- 表示言語はすべて中国語ですが、機能の理解に支障はありません。
 - 著作権の関係により、一部の画像・フォント・音声ファイルを削除しています。
